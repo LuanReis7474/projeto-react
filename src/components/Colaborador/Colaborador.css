@@ -1,0 +1,16 @@
+.text {
+    text-align: center;
+}
+
+.card {
+    width: 100px;
+    padding: 10px;
+}
+
+.img-perfil {
+    width: 100px;
+}
+
+.img-perfil img {
+    width: 100px;
+}

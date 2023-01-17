@@ -1,0 +1,10 @@
+.time h3 {
+    text-align: center;
+}
+
+.time .cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
